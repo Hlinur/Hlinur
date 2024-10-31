@@ -68,7 +68,7 @@ Estudiante del [**ciclo formativo superior**](https://llegarasalto.com/guiafp/ci
 - :imp:Me llamo Alejandro y nací el 25 de julio de 1994.:imp:
 - :imp:Me apasiona la literatura, siendo la fantasía épica la que más leo.:imp:
 - :imp:La música que más disfruto es el heavy metal.:imp:
-- :imp:Apasionado de la historia de Warhammer tanto [***Fantasy***](https://warhammerfantasy.fandom.com/wiki/The_End_Times) como [***40k***](https://warhammer40k.fandom.com/wiki/Horus_Heresy).:imp:![Símbolo de khorne](https://i.pinimg.com/originals/44/34/66/443466e417d470e091616c8e7623417b.jpg)
+- :imp:Apasionado de la historia de Warhammer tanto [***Fantasy***](https://warhammerfantasy.fandom.com/wiki/The_End_Times) como [***40k***](https://warhammer40k.fandom.com/wiki/Horus_Heresy):imp:![Símbolo de khorne](https://i.pinimg.com/originals/44/34/66/443466e417d470e091616c8e7623417b.jpg)
 - :imp:Cuando no leo estoy jugando juegos MMORPG, como por ejemplo [***WoW***](https://worldofwarcraft.blizzard.com/es-es/):imp:![Simbolo de World of Warcraft](https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt550de4965b72a19e/60d38b911aa3190f6b80e14d/38841-1.png?imwidth=320&imdensity=2.625)
 - Mis personajes más usados en World of warcraft y mis razas mas jugadas en warhammer son las siguientes:
 
