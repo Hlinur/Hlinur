@@ -6,7 +6,7 @@ Estudiante del [**ciclo formativo superior**](https://llegarasalto.com/guiafp/ci
 
 ## <mark>Actualmente cursando: </mark>
 
-- Bases de datos -2425
+- Bases de datos - 2425
 - Digitalización Aplicada al Sistema Productivo DAM - 2425
 - Entornos de desarrollo - 2425
 - Inglés Profesional DAM - 2425
