@@ -1,4 +1,4 @@
-# <mark>¡Buenos días, tardes noches! Soy un fiel servidor del dios del caos Khorne y vengo a presentarme. Soy Alejandro y vengo a propagar su inquestionable poder.</mark>
+# <mark>¡Buenos días, tardes o noches! Soy un fiel servidor del dios del caos Khorne y vengo a presentarme. Soy Alejandro y vengo a propagar su inquestionable poder.</mark>
 ---
 ## <mark>Datos del fiel seguidor</mark>
 
